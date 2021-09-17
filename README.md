@@ -8,6 +8,15 @@
 Ldrtk/Ldrtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
+=======
+Currently working on an indie-game, Wandering Whiskers 
+=======
+-------
+Description; Game about moving cities and fluffy cat girls o7
+
+Note: Won't find anything when searching it up atm, tho it'll go public soon
+-------
+
 
 ------
 
