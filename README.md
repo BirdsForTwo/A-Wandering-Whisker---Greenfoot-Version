@@ -4,7 +4,7 @@ Introduction
 - Hola, I’m @Ldrtk
 - New to GitHub so this page will be pretty desolate for a while ;-;
 - Currently learning Python and Javascript, about a month in.
-- Not looking to collaborate at the moment. Big emphasis on the moment though.
+- Not looking to collaborate at the moment.
 - YouTube if you'd like to learn more about my game/would like to contact: gonna make one soon.
 
 <!---
