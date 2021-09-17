@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 --->
 -------
 Currently working on an indie-game, Wandering Whiskers 
-
+-------
 -------
 Description; Game about moving cities and fluffy cat girls.
--------
+
 
 
 ------
