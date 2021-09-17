@@ -1,3 +1,6 @@
+Introduction
+-------
+
 - Hola, I’m @Ldrtk
 - New to GitHub so this page will be pretty desolate for a while ;-;
 - Currently learning Python and Javascript, about a month in.
