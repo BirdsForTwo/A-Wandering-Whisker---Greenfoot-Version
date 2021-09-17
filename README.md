@@ -16,9 +16,9 @@ Currently working on an indie-game, Wandering Whiskers
 -------
 -------
 Description; Game about moving cities and fluffy cat girls.
-Engine: Unity (previously Greenfoot)
+- Engine: Unity (previously Greenfoot)
 
-Note: Won't find anything about it at the moment, however it's set to go public soon.
+- Note: Won't find anything about it at the moment, however it's set to go public soon.
 
 
 
